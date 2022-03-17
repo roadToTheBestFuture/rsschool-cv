@@ -37,4 +37,15 @@ In the beginning my goal is to work as a js programmer.I am cheerful, active and
 >// call it
 >work();
 
+---
 
+### Work experience 
+
+No work experience
+
+---
+
+### Languages
+- Russian (native speaker)
+- English B1 (studying B2)
+- Polish B1 (studying B2)
