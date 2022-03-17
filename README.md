@@ -11,3 +11,12 @@
 I am 16 years old and I am an ordinary *schoolboy* who will finish grade 10.
 In the beginning my goal is to work as a js programmer.I am cheerful, active and ready to learn.
 
+---
+
+### Skills
+-CSS
+-HTML
+-Git/GitHub
+
+---
+
