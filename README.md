@@ -20,3 +20,21 @@ In the beginning my goal is to work as a js programmer.I am cheerful, active and
 
 ---
 
+### Examgple
+
+>function makeWorker() {
+> let name = "Pete";
+>
+>  return function() {
+>    alert(name);
+>  };
+>}
+>
+>let name = "John";
+>// create a function
+>let work = makeWorker();
+>
+>// call it
+>work();
+
+
