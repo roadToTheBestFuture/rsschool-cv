@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/roadToTheBestFuture/rsschool-cv/tree/gh-pages
